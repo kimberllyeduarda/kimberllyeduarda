@@ -2,4 +2,3 @@
 - 👀 meu email de contato é @kimberlly.marcovicz
 - 🌱 eu estou interessada em aprender a programar novas linguagens.
 - 💞️ eu estou aprendendo a programar recentemente a linguagem de javaCript e scratch
--
